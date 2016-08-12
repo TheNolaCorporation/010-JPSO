@@ -5,13 +5,18 @@
 
 #####Frequencies
 ```
-  Frequency 	License 	Type 	Alpha Tag		Description                 Mode 	Tag 
-- 466.31250 	WPMN688 	M		Zeph Park Op	Zephers Park Operations 	FM 		Business 
-- 466.78750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
-- 468.23750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
-- 468.66250 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
-- 469.06250 	WPMN688 	M		ZephersPark		Zephers Park Operations 	FM 		Business 
-- 469.31250 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
+-	Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+-	453.32500 	WSW771 	RM	192.8 PL	JPFD-PAGE	Fire Tone Out/Paging 	FM 	Fire Dispatch 
+-	154.28000 	KKZ704 	BM		JPFD-MA	Fire Mutual Aid 	FMN 	Interop 
+-	855.78750 	 	M	205 DPL	JP Firegrnd1	Fireground 1 	FMN 	Fire-Tac 
+-	854.58750 	 	M	205 DPL	JP Firegrnd2	Fireground 2 	FMN 	Fire-Tac 
+-	858.53750 	 	M	205 DPL	JP Firegrnd3	Fireground 3 	FMN 	Fire-Tac 
+-	855.83750 	 	M	205 DPL	JP Firegrnd4	Fireground 4 	FMN 	Fire-Tac 
+-	859.01250 	 	M	205 DPL	JP Firegrnd5	Fireground 5 	FMN 	Fire-Tac 
+-	855.56250 	 	M	205 DPL	JP Firegrnd6	Fireground 6 	FMN 	Fire-Tac 
+-	856.51250 	 	M	205 DPL	JP Firegrnd7	Fireground 7 	FMN 	Fire-Tac 
+-	855.51250 	 	M	205 DPL	JP Firegrnd8	Fireground 8 	FMN 	Fire-Tac 
+-	859.16250 	 	M	205 DPL	JP Firegrnd9	Fireground 9 	FMN 	Fire-Tac 
 ```
 
 #####Hashes ( bytes: 56 )
