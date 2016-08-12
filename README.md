@@ -1,2 +1,60 @@
-# 010-JPSO
-The Fuzz ( Jefferson )
+#ジャy ペー
+##[466.31250]
+###The Fuzz ( Jefferson )
+
+####Frequencies
+```
+Frequency   :Lic    :Type   :Alpha        :Description            :Mode   :Tag
+-Frequency 	License 	Type 	Alpha Tag		Description					Mode 	Tag 
+-466.31250 	WPMN688 	M		Zeph Park Op	Zephers Park Operations 	FM 		Business 
+-466.78750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
+-468.23750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
+-468.66250 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
+-469.06250 	WPMN688 	M		ZephersPark		Zephers Park Operations 	FM 		Business 
+-469.31250 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
+```
+
+###Hashes ( bytes: 34 )
+md2: f53362d374c75790f74a738e1318be4a
+md4: e37f52cceac61dd3c30693de1da5ae41
+md5: 67015d710fad61b37b635a7fb6cfe6aa
+sha1: b5330bd309d5b334393c593048b0c7007e1889e1
+sha224: 66e4d6ff5eedf40e234bbbb99a1b85a0a0f5b63c37863697dc4de64f
+sha256: 10d621fb9bce05e1034c1fb7c211fc48da869ccc31fb33e36789ac0fd4c88712
+sha384: 9e40409cff7e2a55c639cbacd58b7d687fd872826674c1e78bb6eb743dbb7cdad37c38ccd2a204f06dfd8f3dd2ddf15e
+sha512: f4ee9ff0b8a9b7828fdf5e06e2f117bd458f1382ada6b42679a2563d48c3efc54c875da802f7fb9f6c8912166942be06a0d407b2ea1dcea589b15096f5379612
+ripemd128: 387905bd11212e4d92053204bac639d9
+ripemd160: 4ec2b8680777d007cdb9a608e4f9e83aaf4d9eda
+ripemd256: 6bba12d09d9005a761fc7fb3813f872945032ab5a14c142583d7c6f91ad57aab
+ripemd320: af625096d69dc44e9ddbe345211b064b0e7a88c09acf5c0458533b3620d3ed15aecea61bfc3973c7
+whirlpool: 4b318df4c1a42d8a3fa9ab509e3ddca8a8e91b695b13b551d9837eb515e48176792866170d485d9590d468698bd150d0242b83cd4e31a60701a103b1bd8c5890
+tiger128,3: 8b28ff44c5a0dc84ee2802e5ee6e3da9
+tiger160,3: 8b28ff44c5a0dc84ee2802e5ee6e3da90c61bbe8
+tiger192,3: 8b28ff44c5a0dc84ee2802e5ee6e3da90c61bbe8a1baf5dc
+tiger128,4: 0c5bbc453accae5a2144f9d9b3b6c734
+tiger160,4: 0c5bbc453accae5a2144f9d9b3b6c7345f52514c
+tiger192,4: 0c5bbc453accae5a2144f9d9b3b6c7345f52514c4dca5152
+snefru: 41deecd9076e13c372069843fa5d20ff7688c4a352417c78057b97660361b80a
+snefru256: 41deecd9076e13c372069843fa5d20ff7688c4a352417c78057b97660361b80a
+gost: bb1362185b46e543b6dffd614186b2130e4816c31ba671030b505ebbccc52ea0
+adler32: 72aa06a2
+crc32: 676705eb
+crc32b: a2c82173
+fnv132: c39dc15c
+fnv164: 0e22616f0af8265c
+joaat: 3dcc465c
+haval128,3: 1de382efc383108e625283b38deac445
+haval160,3: 051c8d2935070c39af01ba1b852dc9dbcf09784f
+haval192,3: 7c1ad989a1f05b958907e7ee3450f7c53d5c63a314d99f28
+haval224,3: b99c4c3ef1972d733cf4d3e400a3ecdd8d6870433ae378b4185060ff
+haval256,3: 9d243580af538634595919d0d3b749a1e4c340af9089004f52f85461eb834f58
+haval128,4: e43377f5132212babfe0214b7f1c0192
+haval160,4: c5d09cd50ef399203a58582b601eb259e5e507d8
+haval192,4: 8f2b161c744c3c506306513465d41b96f572a74bf285dfa0
+haval224,4: f7bda34a9cb86601be2ec28971309dc47d0699423830895cb3b157e0
+haval256,4: 9b894bdffaa0e025e0b8536bebf4802ccedb63756c795891214f136908790e83
+haval128,5: 686d211f16f264f2a7d687e1f6506946
+haval160,5: b89777d8deadfb013520f89f0067fffe4c526f70
+haval192,5: 5de53eb66e7c1239ab982278797ffb388abd604f087bc9e9
+haval224,5: e460e27192622a7da42c0ac5328cac89566be87de72f2dafc133de5a
+haval256,5: 77cdeeb524084ff210a36037b4878ef40c855f64aeb5ebb4ca20d2f20567fdeb
