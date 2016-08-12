@@ -3,33 +3,52 @@
 ###( Ja y pē e c o h )
 ####The Fuzz ( Jefferson )
 
-#####Frequencies
+#####Frequencies ( http://www.radioreference.com/apps/db/?ctid=1134#cid-1510 )
 
-######Jefferson Parish
+######Jump-Off Boys : Jefferson Parish
 ```
 Frequency   License	Type	Tone    					Alpha			Tag			Description		Mode	Tag 
-- 453.32500	WSW771	RM		192.8 PL					JPFD-PAGE		Fire Tone	Out/Paging		FM		Fire Dispatch 
-- 154.28000	KKZ704 	BM		JPFD-MA	Fire Mutual Aid 	FMN				Interop 
-- 855.78750			M		205 DPL	JP Firegrnd1		Fireground 1 								FMN		Fire-Tac 
-- 854.58750			M		205 DPL	JP Firegrnd2		Fireground 2 								FMN 	Fire-Tac 
-- 858.53750			M		205 DPL	JP Firegrnd3		Fireground 3 								FMN 	Fire-Tac 
-- 855.83750			M		205 DPL	JP Firegrnd4		Fireground 4 								FMN 	Fire-Tac 
-- 859.01250			M		205 DPL	JP Firegrnd5		Fireground 5 								FMN 	Fire-Tac 
-- 855.56250			M		205 DPL	JP Firegrnd6		Fireground 6 								FMN 	Fire-Tac 
-- 856.51250			M		205 DPL	JP Firegrnd7		Fireground 7 								FMN 	Fire-Tac 
-- 855.51250 		M		205 DPL	JP Firegrnd8		Fireground 8 								FMN 	Fire-Tac 
-- 859.16250			M		205 DPL	JP Firegrnd9		Fireground 9 								FMN 	Fire-Tac  
+453.32500	WSW771	RM		192.8 PL					JPFD-PAGE		Fire Tone	Out/Paging		FM		Fire Dispatch 
+154.28000	KKZ704 	BM		JPFD-MA	Fire Mutual Aid 	FMN				Interop 
+855.78750			M		205 DPL	JP Firegrnd1		Fireground 1 								FMN		Fire-Tac 
+854.58750			M		205 DPL	JP Firegrnd2		Fireground 2 								FMN 	Fire-Tac 
+858.53750			M		205 DPL	JP Firegrnd3		Fireground 3 								FMN 	Fire-Tac 
+855.83750			M		205 DPL	JP Firegrnd4		Fireground 4 								FMN 	Fire-Tac 
+859.01250			M		205 DPL	JP Firegrnd5		Fireground 5 								FMN 	Fire-Tac 
+855.56250			M		205 DPL	JP Firegrnd6		Fireground 6 								FMN 	Fire-Tac 
+856.51250			M		205 DPL	JP Firegrnd7		Fireground 7 								FMN 	Fire-Tac 
+855.51250 			M		205 DPL	JP Firegrnd8		Fireground 8 								FMN 	Fire-Tac 
+859.16250			M		205 DPL	JP Firegrnd9		Fireground 9 								FMN 	Fire-Tac  
 ```
 
-######Third District Volunteer Fire Department
+######FIYA! : Third District Volunteer Fire Department
 ```
 Frequency		License 	Type 	Tone 	Alpha Tag 		Description 					Mode 	Tag 
-- 856.51250		WNFF370 	RM		205		DPL	JPFA FG 7	Third District VFD - Dispatch 	FM		Fire Dispatch 
+856.51250		WNFF370 	RM		205		DPL	JPFA FG 7	Third District VFD - Dispatch 	FM		Fire Dispatch 
 ```
 
-######Grand Isle
+######Area 51 : Grand Isle
+```
 Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
-- 856.26250 	WPKP229 	BM		GIFD-OPS	Fire 	FM 	Fire Dispatch 
+856.26250 	WPKP229 	BM		GIFD-OPS	Fire 	FM 	Fire Dispatch 
+```
+
+######Kenna Brah : Kenner
+```
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 													Mode 	Tag 
+855.21250 	WNHR750 	RM		205 DPL	KFD-DISP	Fire Dispatch (Operations on LWIN and Parish Analog System) 	FM 		Fire Dispatch 
+422.12500 	 			RM		B64 NAC	KENNER-FED	Kenner Police - Federal Interagency Emergecny Patch 			P25 	Interop 
+```
+
+######No Fly Zone : Gretna
+```
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 							Mode 	Tag 
+154.29500 	KKZ704 		BM		G/DC 	FD-PAGE		Fire Tone Out 							FMN 	Fire Dispatch 
+855.08750 	90.06778 	BM		G/DC 	FD-FG		Fireground (Gould and David Crockett) 	FM 	Fire-Talk
+```
+
+
+######Big Brother : Department of the Interior
 
 #####Hashes ( bytes: 56 )
 md2: 0b36b81d190e784d36699105c7704e01
