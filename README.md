@@ -27,6 +27,9 @@ Frequency		License 	Type 	Tone 	Alpha Tag 		Description 					Mode 	Tag
 - 856.51250		WNFF370 	RM		205		DPL	JPFA FG 7	Third District VFD - Dispatch 	FM		Fire Dispatch 
 ```
 
+######Grand Isle
+Frequency 	License 	Type 	Tone 	Alpha Tag 	Description 	Mode 	Tag 
+- 856.26250 	WPKP229 	BM		GIFD-OPS	Fire 	FM 	Fire Dispatch 
 
 #####Hashes ( bytes: 56 )
 md2: 0b36b81d190e784d36699105c7704e01
