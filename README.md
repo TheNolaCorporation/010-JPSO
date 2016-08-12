@@ -4,14 +4,13 @@
 
 ####Frequencies
 ```
-Frequency   :Lic    :Type   :Alpha        :Description            :Mode   :Tag
--Frequency 	License 	Type 	Alpha Tag		Description					Mode 	Tag 
--466.31250 	WPMN688 	M		Zeph Park Op	Zephers Park Operations 	FM 		Business 
--466.78750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
--468.23750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
--468.66250 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
--469.06250 	WPMN688 	M		ZephersPark		Zephers Park Operations 	FM 		Business 
--469.31250 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
+  Frequency 	License 	Type 	Alpha Tag		Description					      Mode 	Tag 
+- 466.31250 	WPMN688 	M		Zeph Park Op	Zephers Park Operations 	FM 		Business 
+- 466.78750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
+- 468.23750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
+- 468.66250 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
+- 469.06250 	WPMN688 	M		ZephersPark		Zephers Park Operations 	FM 		Business 
+- 469.31250 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
 ```
 
 ###Hashes ( bytes: 34 )
