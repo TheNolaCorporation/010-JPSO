@@ -1,9 +1,10 @@
-#ジャy ペー:[466.31250-469.31250]
-##The Fuzz ( Jefferson )
+#ジャy ペー :[466.31250-469.31250]
+##( Ja y pē )
+###The Fuzz ( Jefferson )
 
-###Frequencies
+####Frequencies
 ```
-  Frequency 	License 	Type 	Alpha Tag		Description               Mode 	Tag 
+  Frequency 	License 	Type 	Alpha Tag		Description                 Mode 	Tag 
 - 466.31250 	WPMN688 	M		Zeph Park Op	Zephers Park Operations 	FM 		Business 
 - 466.78750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
 - 468.23750 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
@@ -12,7 +13,7 @@
 - 469.31250 	WPMN688 	M		Zephers Park	Zephers Park Operations 	FM 		Business 
 ```
 
-###Hashes ( bytes: 56 )
+####Hashes ( bytes: 56 )
 md2: 0b36b81d190e784d36699105c7704e01
 md4: d9600112f9b7d57a29124b1a25babdae
 md5: 440b64436fd9c7c48c246396e62fe554
