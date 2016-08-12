@@ -1,7 +1,7 @@
 #ジャy ペー エs オh
 ##[466.31250<>469.31250]
-###( Ja y pē e c o h )
-####The Fuzz ( Jefferson )
+###Ja y pē e c o h
+####The Fuzz [JPSO]
 
 #####Frequencies ( http://www.radioreference.com/apps/db/?ctid=1134#cid-1510 )
 
